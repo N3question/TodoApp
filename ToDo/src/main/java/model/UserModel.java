@@ -48,4 +48,5 @@ public class UserModel {
 		ArrayList<TodoBeans> todoList = userDao.getUserTodoAll(userId);
 		return todoList;
 	}
+	// ここまで
 }

@@ -53,6 +53,6 @@
 			confirm.setCustomValidity('');
 		}
 	}
-</script>
+	</script>
 </body>
 </html>
